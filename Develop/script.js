@@ -12,7 +12,7 @@ function writePassword() {
   passwordText.value = password;
 }
 
-function writePassword() {
+function generatePassword() {
   //Length Function
   function Step1() {
     var charLengthFun = window.prompt("Please select a password length between 8 and 128 characters. Please key in a numeric value.");
