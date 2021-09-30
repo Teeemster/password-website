@@ -10,7 +10,7 @@ This repository can be opened as an HTML within Github at the website: https://t
 
 On the website there is a "Generate Password" button. This button will bring up a form for the user to indicate the length of their password along with criteria for the characters, such as uppercase, lowercase, special characters and numeric.
 
-![Sample of Portfolio Website](develop/WebsiteSample.PNG)
+![Sample of Password Website](develop/WebsiteSample.PNG)
     
 ## Credits
 * Jonathan Beach
